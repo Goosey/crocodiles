@@ -72,6 +72,12 @@ a {
         transition: all 0.3s ease-in-out;
     }
 
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
     img {
         display: block;
         margin: 8rem 0 2rem 0;
