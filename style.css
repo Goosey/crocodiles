@@ -60,6 +60,12 @@ a {
         color:hsl(34, 51%, 86%)
     }
 
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+
     nav a:hover {
         border-bottom: none;
         color: #FEFAE0;
