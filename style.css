@@ -45,10 +45,11 @@ a {
     }
 
     nav ul {
+        list-style-type: none;
         text-align: center;
         text-transform: uppercase;
         letter-spacing: 1px;
-    }
+      }
 
     nav ul li {
         display: inline;
@@ -60,11 +61,7 @@ a {
         color:hsl(34, 51%, 86%)
     }
 
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-      }
+    
 
     nav a:hover {
         border-bottom: none;
@@ -72,11 +69,7 @@ a {
         transition: all 0.3s ease-in-out;
     }
 
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-      }
+   
 
     img {
         display: block;
