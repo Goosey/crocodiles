@@ -2,7 +2,7 @@
 body{
     background-color: hsl(34, 51%, 86%);
     color: black;
-    font-family: baskerville-urw, serif;
+    font-family: "montserrat", sans-serif;
 }
 
 section, header, footer {
