@@ -79,6 +79,9 @@ a {
         max-width: 100%;
     }
 
+    .brownBlock {
+        background-color: #C19875
+   }
 
 Footer {
     background: #C19875;
