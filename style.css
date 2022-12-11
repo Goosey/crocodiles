@@ -1,3 +1,10 @@
+/*- main styling -*/
+body{
+    background-color: #F4F1DE(34, 51%, 86%);
+    color: black;
+    font-family: montserrat-urw, serif;
+}
+
 a {
     text-decoration: none;
 }
