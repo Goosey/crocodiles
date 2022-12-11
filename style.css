@@ -16,7 +16,7 @@ a {
         left: 0;
         margin: 0;
         width: 100%;
-        background-color:rgb(233, 131, 6);
+        background-color:#C19875;
         padding: 3rem 0;
         font-size: 1rem;
     }
@@ -39,7 +39,7 @@ a {
 
     nav a:hover {
         border-bottom: none;
-        color:hsl(34, 51%, 86%);
+        color: #FEFAE0;
         transition: all 0.3s ease-in-out;
     }
 
