@@ -1,3 +1,49 @@
+a {
+    text-decoration: none;
+}
+
+    /*- nsv styling -*/
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        width: 100%;
+        background-color:rgb(233, 131, 6);
+        padding: 3rem 0;
+        font-size: 1rem;
+    }
+
+    nav ul {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+
+    nav ul li {
+        display: inline;
+        margin: 20px;
+        background: none;
+    }
+
+    nav a {
+        color:hsl(34, 51%, 86%)
+    }
+
+    nav a:hover {
+        border-bottom: none;
+        color:hsl(34, 51%, 86%);
+        transition: all 0.3s ease-in-out;
+    }
+
+
+
+
+
+
+
+
+
 Footer {
     background: #C19875;
 text-align: center;
