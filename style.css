@@ -51,11 +51,12 @@ a {
         letter-spacing: 1px;
       }
 
-    nav ul li {
+      nav ul li {
+        list-style: none;
         display: inline;
         margin: 20px;
         background: none;
-    }
+      }
 
     nav a {
         color:hsl(34, 51%, 86%)
