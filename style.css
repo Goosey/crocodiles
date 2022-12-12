@@ -79,6 +79,13 @@ a {
         max-width: 100%;
     }
 
+    blockquote {
+        font-style: italic;
+        font-size: 1.5rem;
+        color: #D68F51;
+        margin: 2rem 3rem 2rem 3rem;
+    }
+
     .gridimage {
         display: grid;
         column-gap: 10px;
