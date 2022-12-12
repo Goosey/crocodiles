@@ -79,6 +79,12 @@ a {
         max-width: 100%;
     }
 
+    .gridimage {
+        display: grid;
+        column-gap: 10px;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    }
+
     .brownBlock {
         background-color: #C19875
    }
